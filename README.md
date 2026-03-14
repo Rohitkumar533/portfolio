@@ -1,2 +1,3 @@
 # portfolio
-Dynamic portfolio website Developed Using Python and Django
+This is my first Git Repository.
+Author- Rohit kumar
